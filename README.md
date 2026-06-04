@@ -1,8 +1,9 @@
-<p>
-  <img src="https://camo.githubusercontent.com/287a317d950266105d4c0b02cf6d2389350b59c72b1956687388653ec7310c19/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067" height="250">
+<p align="center">
+  <img src="https://camo.githubusercontent.com/287a317d950266105d4c0b02cf6d2389350b59c72b1956687388653ec7310c19/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067" width="100%" height="250">
 </p>
 <h1 align="center">Hi 👋, I'm ANURAG SWAIN</h1>
 <h3 align="center">CSE Student | Building Real-World Projects in AI, Data Science & Web Development</h3>
+
 <img align="right" alt="Coding" width="400" height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunter-x0s&label=Profile%20views&color=0e75b6&style=flat" alt="hunter-x0s" /> </p>
@@ -66,5 +67,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/anurag07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/anurag07" /></a><a href="https://ko-fi.com/https://ko-fi.com/anurag07"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/anurag07" /></a></p><br><br>
 
+<br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunter-x0s&" alt="hunter-x0s" /></p>
