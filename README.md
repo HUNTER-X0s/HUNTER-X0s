@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https:hunter-x0s.//io)
+[![MasterHead](https://kommodo.ai/i/j97dsru8xwG7v2r3zlPc)](https:hunter-x0s.//io)
 <h1 align="center">Hi 👋, I'm ANURAG SWAIN</h1>
 <h3 align="center">CSE Student | Building Real-World Projects in AI, Data Science & Web Development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/anurag_hunter07" target="blank"><img src="https://img.shields.io/twitter/follow/anurag_hunter07?logo=twitter&style=for-the-badge" alt="anurag_hunter07" /></a> </p>
 
-- 🔭 I’m currently working on [Developer Portfolio — anurag-portfolio](https://github.com/HUNTER-X0s/PORTFOLIO)
+- 🔭 I’m currently working on [Anurag-portfolio](https://github.com/HUNTER-X0s/PORTFOLIO)
 
 - 🌱 I’m currently learning **Advanced Data Science, Machine Learning, and Full-Stack Development**
+
+- 💬 Ask me about **ANYTHING😎**
 
 - 👯 I’m looking to collaborate on [AI CHAT-BOT](https://github.com/HUNTER-X0s/AI_CHAT-BOT)
 
 - 🤝 I’m looking for help with [Voken Decentralized Voting System](https://github.com/HUNTER-X0s/Voken-Decentralized-Voting-System)
 
-- 👨‍💻 All of my projects are available at [https://anurag07.vercel.app/](https://anurag07.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://anurag07.vercel.app/](https://anurag07.vercel.app)
 
 - 📝 I regularly write articles on [https://dev.to/hunterx0s](https://dev.to/hunterx0s)
 
-- 💬 Ask me about **ANYTHING😎**
-
 - 📫 How to reach me **anurag.swain35@gmail.com**
 
-- 📄 Know about my experiences [https://anurag.linkyhost.com/](https://anurag.linkyhost.com/)
+- 📄 Know about my experiences [https://anurag.linkyhost.com/](https://anurag.linkyhost.com)
 
 - ⚡ Fun fact **I think I am Funny**
 
