@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ANURAG SWAIN</h1>
 <h3 align="center">CSE Student | Building Real-World Projects in AI, Data Science & Web Development</h3>
 <br>
-<img align="right" alt="Coding" width="400" height="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunter-x0s&label=Profile%20views&color=0e75b6&style=flat" alt="hunter-x0s" /> </p>
 
@@ -13,13 +13,7 @@
 
 - 💬 Ask me about **ANYTHING😎**
 
-- 👯 I’m looking to collaborate on [AI CHAT-BOT](https://github.com/HUNTER-X0s/AI_CHAT-BOT)
-
-- 🤝 I’m looking for help with [Voken Decentralized Voting System](https://github.com/HUNTER-X0s/Voken-Decentralized-Voting-System)
-
 - 👨‍💻 All of my projects are available at [https://anurag07.vercel.app/](https://anurag07.vercel.app)
-
-- 📝 I regularly write articles on [https://dev.to/hunterx0s](https://dev.to/hunterx0s)
 
 - 📫 How to reach me **anurag.swain35@gmail.com**
 
