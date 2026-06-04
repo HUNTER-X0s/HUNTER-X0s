@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm ANURAG SWAIN</h1>
-<br>
 <h3 align="center">CSE Student | Building Real-World Projects in AI, Data Science & Web Development</h3>
 <br>
-
 <img align="right" alt="Coding" width="400" height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunter-x0s&label=Profile%20views&color=0e75b6&style=flat" alt="hunter-x0s" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anurag_hunter07" target="blank"><img src="https://img.shields.io/twitter/follow/anurag_hunter07?logo=twitter&style=for-the-badge" alt="anurag_hunter07" /></a> </p>
 
-- 🔭 I’m currently working on [Developer Portfolio — anurag-portfolio](https://github.com/HUNTER-X0s/PORTFOLIO)
+- 🔭 I’m currently working on [Anurag-Portfolio](https://github.com/HUNTER-X0s/PORTFOLIO)
 
 - 🌱 I’m currently learning **Advanced Data Science, Machine Learning, and Full-Stack Development**
 
