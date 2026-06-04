@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ANURAG SWAIN</h1>
-<br><br>
+<br>
 <h3 align="center">CSE Student | Building Real-World Projects in AI, Data Science & Web Development</h3>
-<br><br>
+<br>
 
 <img align="right" alt="Coding" width="400" height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
