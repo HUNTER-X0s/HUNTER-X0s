@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/287a317d950266105d4c0b02cf6d2389350b59c72b1956687388653ec7310c19/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067" width="100%" height="250">
-</p>
 <h1 align="center">Hi 👋, I'm ANURAG SWAIN</h1>
 <h3 align="center">CSE Student | Building Real-World Projects in AI, Data Science & Web Development</h3>
 
@@ -69,4 +66,12 @@
 
 <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunter-x0s&" alt="hunter-x0s" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HUNTER-X0s&theme=tokyonight"
+    alt="streak stats" />
+</p>
+<br><br>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/287a317d950266105d4c0b02cf6d2389350b59c72b1956687388653ec7310c19/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067" width="100%" height="250">
+</p>
