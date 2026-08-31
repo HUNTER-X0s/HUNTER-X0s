@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ANYTHING😎**
 
-- 👨‍💻 All of my projects are available at [https://anurag07.vercel.app/](https://anuragswain.vercel.app)
+- 👨‍💻 All of my projects are available at [https://anuragswain.vercel.app/](https://anuragswain.vercel.app)
 
 - 📫 How to reach me **anurag.swain35@gmail.com**
 
